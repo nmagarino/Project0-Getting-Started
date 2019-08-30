@@ -5,7 +5,7 @@ Project 0 Getting Started
 
 * Nicholas Magarino
   * [https://www.linkedin.com/in/nicholasmagarino/](), [https://www.nickmagarino.com/]()
-* Tested on: Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+* Tested on: Windows 10 Home Version 1803, i5-8300H @ 2.30GHz 8GB, GeForce GTX 1050 8GB (Personal MSI GL63 8RC Laptop)
 
 ### (TODO: Your README)
 
