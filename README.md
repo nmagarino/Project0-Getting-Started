@@ -11,5 +11,20 @@ Project 0 Getting Started
 
 Using NVIDIA GeForce GTX 1050 with Compute Compatability 6.1
 
+WebGL Compatability
 ![](/images/chromegpu.PNG)
+
+DXR Test
+![](/images/dxr_test.PNG)
+
+CUDA Getting Started
+![](/images/modified_buildrun.PNG)
+
+Nsight Trace Timeline
+![](/images/nsight_timeline.PNG)
+
+CUDA Debugging Warp Info
+![](/images/warpinfo.PNG)
+
+
 
