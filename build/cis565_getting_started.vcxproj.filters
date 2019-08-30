@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Desktop\CIS 565\Project0-Getting-Started\cuda-getting-started\src\glslUtility.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Desktop\CIS 565\Project0-Getting-Started\cuda-getting-started\src\main.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Desktop\CIS 565\Project0-Getting-Started\cuda-getting-started\src\glslUtility.hpp">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\CIS 565\Project0-Getting-Started\cuda-getting-started\src\kernel.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Desktop\CIS 565\Project0-Getting-Started\cuda-getting-started\src\main.hpp">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Desktop\CIS 565\Project0-Getting-Started\cuda-getting-started\src\kernel.cu">
+      <Filter>Sources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Desktop\CIS 565\Project0-Getting-Started\cuda-getting-started\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="D:\Desktop\CIS 565\Project0-Getting-Started\build\CMakeFiles\cis565_getting_started.dir\src\$(Configuration)\cis565_getting_started_generated_kernel.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{F468B2FB-4A89-3967-ABAB-E347C5913271}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Files">
+      <UniqueIdentifier>{F62314A1-6309-371A-AB22-F0D5D3B180C7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{3E34890E-847D-31F6-A7CF-5D4E711C364E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

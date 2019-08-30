@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\Desktop\CIS 565\Project0-Getting-Started\cuda-getting-started\src\main.cpp(94): warning C4996: 'cudaGLRegisterBufferObject': was declared deprecated
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\include\cuda_gl_interop.h(327): note: see declaration of 'cudaGLRegisterBufferObject'
+D:\Desktop\CIS 565\Project0-Getting-Started\cuda-getting-started\src\main.cpp(135): warning C4996: 'cudaGLSetGLDevice': was declared deprecated
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\include\cuda_gl_interop.h(305): note: see declaration of 'cudaGLSetGLDevice'
+D:\Desktop\CIS 565\Project0-Getting-Started\cuda-getting-started\src\main.cpp(169): warning C4996: 'cudaGLMapBufferObject': was declared deprecated
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\include\cuda_gl_interop.h(356): note: see declaration of 'cudaGLMapBufferObject'
+D:\Desktop\CIS 565\Project0-Getting-Started\cuda-getting-started\src\main.cpp(175): warning C4996: 'cudaGLUnmapBufferObject': was declared deprecated
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\include\cuda_gl_interop.h(382): note: see declaration of 'cudaGLUnmapBufferObject'
+D:\Desktop\CIS 565\Project0-Getting-Started\cuda-getting-started\src\main.cpp(224): warning C4996: 'cudaGLUnregisterBufferObject': was declared deprecated
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\include\cuda_gl_interop.h(404): note: see declaration of 'cudaGLUnregisterBufferObject'
+  cis565_getting_started.vcxproj -> D:\Desktop\CIS 565\Project0-Getting-Started\build\bin\Debug\cis565_getting_started.exe
