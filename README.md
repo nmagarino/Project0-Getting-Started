@@ -11,5 +11,5 @@ Project 0 Getting Started
 
 Using NVIDIA GeForce GTX 1050 with Compute Compatability 6.1
 
-!(/images/chromegpu)[]
+![](/images/chromegpu)
 
